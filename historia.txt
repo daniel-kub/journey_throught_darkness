@@ -1,0 +1,20 @@
+[2026-02-21 09:27:12] === ROZPOCZĘCIE GRY ===
+[2026-02-21 09:27:12] Gracz: Daniel
+[2026-02-21 09:27:24] Przemieszczenie do: Bagna
+[2026-02-21 09:27:24] Walka z: Żaba
+[2026-02-21 09:27:43] Walka wygrana! Zdobyto 15 XP i 12 złota.
+[2026-02-21 09:27:47] Walka z: Żaba
+[2026-02-21 09:27:57] Walka przegrana!
+[2026-02-21 09:28:14] Walka z: Ognik
+[2026-02-21 09:28:21] Użyto przedmiotu: Mikstura leczenia
+[2026-02-21 09:28:32] Walka przegrana!
+[2026-02-21 09:28:32] === ZAKOŃCZENIE GRY ===
+[2026-02-21 09:28:32] Wynik: PORAŻKA
+[2026-02-21 09:28:32] Przyczyna: Twoja postać zginęła w walce.
+[2026-02-21 09:28:32] === ZAKOŃCZENIE GRY ===
+[2026-02-21 09:28:32] Wynik: PORAŻKA
+[2026-02-21 09:28:32] Przyczyna: Twoja postać zginęła.
+[2026-02-21 09:29:23] Udało się uniknąć pułapki!
+[2026-02-21 09:29:36] Udało się uniknąć pułapki!
+[2026-02-21 09:29:50] Walka z: Topielec
+[2026-02-21 09:30:04] Walka wygrana! Zdobyto 15 XP i 17 złota.
